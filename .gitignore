@@ -28,3 +28,9 @@ vendor/
 
 coverage.out
 drone-s3-sync
+
+# IDE
+.idea
+
+# Other
+.DS_store
